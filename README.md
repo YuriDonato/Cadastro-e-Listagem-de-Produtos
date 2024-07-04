@@ -1,10 +1,6 @@
 Qualificação de candidato
 Estágio de desenvolvimento - Oak Tecnologia
 
-Olá equipe de recrutamento da Oak Tecnologia,
-
-Segue em anexo o projeto experimental desenvolvido por mim como parte da qualificação para o estágio. Este projeto visa demonstrar minha habilidade no desenvolvimento de um sistema de gerenciamento de produtos com requisitos específicos.
-
 Requisitos atendidos:
 
 - **Cadastro de Produtos**
